@@ -39,7 +39,7 @@ const ProjectDetails = [
     image: portfolio,
     title: "Portfolio",
     text: "A personalised portfolio made with react",
-    site: null,
+    site: "https://portfolio-alpha-plum-66.vercel.app/",
     code: "https://github.com/priyanshu-gupta07/Portfolio",
   },
 ];
