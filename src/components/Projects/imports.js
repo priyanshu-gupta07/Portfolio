@@ -4,6 +4,8 @@ import server from "../../assets/images/projects/web_server.png";
 import movie from "../../assets/images/projects/movieflix.png";
 import crypto from "../../assets/images/projects/Crypto.png";
 import portfolio from "../../assets/images/projects/portfolio.png";
+import CalNexus from "../../assets/images/projects/CalNexus.png";
+import Eventease from "../../assets/images/projects/Eventease.png";
 
 
 const ProjectDetails = [
@@ -41,6 +43,20 @@ const ProjectDetails = [
     text: "A personalised portfolio made with react",
     site: "https://portfolio-alpha-plum-66.vercel.app/",
     code: "https://github.com/priyanshu-gupta07/Portfolio",
+  },
+  {
+    image: CalNexus,
+    title: "CalNexus",
+    text: "A platform to schedule meetings and events",
+    site: "https://call-nexus.vercel.app",
+    code: "https://github.com/priyanshu-gupta07/Call-Nexus",
+  },
+  {
+    image: Eventease,
+    title: "Eventease",
+    text: "A platform to manage events and bookings",
+    site: "https://event-ease-lyart.vercel.app",
+    code: "https://github.com/priyanshu-gupta07/EventEase",
   },
 ];
 
